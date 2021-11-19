@@ -1,0 +1,25 @@
+{
+  "folders": [
+	{
+		"name": "react Prac",
+		"path": "E:\\folder\\js\\Advance JavaScript (Hindi)\\React Js Tutorials in Hindi\\react Prac"
+	},
+	{
+		"name": "react",
+		"path": "..\\..\\react"
+	},
+	{
+		"name": "Fetch Api",
+		"path": "E:\\folder\\js\\Advance JavaScript (Hindi)\\Fetch Api"
+	},
+	{
+		"path": "..\\..\\data structure"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Fetch Api"
+  }
+}

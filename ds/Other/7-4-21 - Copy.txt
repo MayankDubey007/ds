@@ -1,0 +1,14 @@
+Q1 missing number identify
+Q2 double missing number identify
+Q3 find duplicate eliment 
+
+Q4 addtion of two matricx
+Q5 transpose of matrics
+Q6 multiplycation of matrics
+
+Q7 sum is equal to pair of element
+08 bracket blanced
+09 find duplicate element
+10 find smallest and largest number
+    DATE = 6AUG
+11 INFIX TO PREFIX CONVERSION

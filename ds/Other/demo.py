@@ -1,0 +1,1 @@
+print("adsdfsdf".isalpha())
